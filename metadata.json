@@ -1,0 +1,6 @@
+{
+  "name": "HOMOD'S TRADE",
+  "description": "Comprehensive, automated US stock market scanner, technical analysis engine, predictive AI forecasting, and interactive veteran trading mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
